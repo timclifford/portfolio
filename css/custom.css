@@ -29,3 +29,7 @@ section#testimonials {
 a.btn-white {
 	color: black !important;
 }
+
+.background-image-holder.contact {
+	height: 300px;
+}
