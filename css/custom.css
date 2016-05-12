@@ -1,0 +1,31 @@
+.headline {
+	font-weight: bold;
+}
+
+section.mobile {
+	padding:0;
+}
+
+section#testimonials {
+	padding-top: 0;
+}
+
+.white {
+	color: #ffffff;
+}
+
+.nav-is-overlay .contact.page-title-4.image-bg:first-child {
+	height: 550px;
+}
+
+.foundry_modal .background-image-holder {
+	background-size: 60% !important;
+	background-repeat: no-repeat !important;
+}
+
+.btn-white {
+	background: white;
+}
+a.btn-white {
+	color: black !important;
+}
